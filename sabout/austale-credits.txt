@@ -1,5 +1,3 @@
--Sprites from spriters-resource.com
-
 -Icon game by Leo-xz59 (http://fav.me/de3sif5)
 
 -Swap Sans reference from Abubakr (https://gamejolt.com/@Abubakr) 
@@ -24,6 +22,10 @@ Beethovenus - Error!Sans Megalovania
 
 - Disbelief Papyrus from flamesatgames (https://gamejolt.com/games/disbelief/268091)
 
-- Sudden changes sans from FDY
+- Sudden changes sans from FDY (Au made by Spouting)
+- Sudden changes previous sprite by Pure (https://www.bilibili.com/video/BV1Bt4y1i7L3)
+- Sudden changes English subtitle ver translated with Google translate OCR and I did a bit of reference from Meekuzo's sudden change English ver translation.
+- Sudden changes ost by D gaster (https://m.soundcloud.com/d-gaster)
+- Gun sound (https://www.fesliyanstudios.com/royalty-free-sound-effects-download/gun-reloading-302) (https://www.fesliyanstudios.com/royalty-free-sound-effects-download/gun-shooting-300)
 
 [and Toby Fox who created undertale]
