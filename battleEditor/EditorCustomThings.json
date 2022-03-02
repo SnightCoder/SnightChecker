@@ -1,0 +1,22 @@
+{
+   "bossSpriteImageUrl":"",
+   "bossSpriteGifUrl":"https://raw.githubusercontent.com/SnightCoder/mod-songs/main/191507689000201.gif",
+   "bossSpriteSizeX":300,
+   "bossSpriteSizeY":340,
+   "boneSpriteType1ImageUrl":"",
+   "boneSpriteType1SizeX":100,
+   "boneSpriteType1SizeY":100,
+   "gasterSpriteImageUrl":"",
+   "gasterSpriteSizeX":60,
+   "gasterSpriteSizeY":70,
+   "backgroundSongUrl":"",
+   "bossVoiceUrl":"",
+   "bossSpriteGifPos":{
+      "x":0,
+      "y":2.5
+   },
+   "bossSpriteGifScale":{
+      "x":2.020677,
+      "y":1.925716
+   }
+}
