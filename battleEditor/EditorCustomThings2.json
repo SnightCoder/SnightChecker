@@ -1,0 +1,33 @@
+{
+    "bossSpriteImageUrl": "",
+    "bossSpriteSizeX": 300,
+    "bossSpriteSizeY": 300,
+    "boneSpriteType1ImageUrl": "",
+    "boneSpriteType1SizeX": 100,
+    "boneSpriteType1SizeY": 100,
+    "gasterSpriteImageUrl": "",
+    "gasterSpriteSizeX": 50,
+    "gasterSpriteSizeY": 50,
+    "backgroundSongUrl": "",
+    "bossVoiceUrl": "",
+
+    "bgEnable": "true",
+    "bgImageUrl": "https://raw.githubusercontent.com/SnightCoder/mod-songs/main/borderDemo.png", 
+    "bgHexColor": "#ffffff", 
+    "bgFade": "false", 
+    "bgPos":{
+       "x":0.772,
+       "y":3.5836
+    },
+    "bgScale":{
+       "x":0.2121223,
+       "y":1.128717
+    },
+    "bgParticleEnable": "true",
+    "bgParticleType": "0",
+    "bgParticleHexColor": "#ffffff",
+    "bgParticlePos":{
+       "x":0.7560001,
+       "y":-3.249999
+    }
+}
