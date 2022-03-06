@@ -1,0 +1,33 @@
+{
+    "bossSpriteImageUrl": "",
+    "bossSpriteSizeX": 300,
+    "bossSpriteSizeY": 300,
+    "boneSpriteType1ImageUrl": "",
+    "boneSpriteType1SizeX": 100,
+    "boneSpriteType1SizeY": 100,
+    "gasterSpriteImageUrl": "",
+    "gasterSpriteSizeX": 50,
+    "gasterSpriteSizeY": 50,
+    "backgroundSongUrl": "",
+    "bossVoiceUrl": "",
+
+    "bgEnable": "true",
+    "bgImageUrl": "https://raw.githubusercontent.com/SnightCoder/mod-songs/main/torielbg.png", 
+    "bgHexColor": "#ffffff", 
+    "bgFade": "false", 
+    "bgPos":{
+       "x":0.735,
+       "y":6.56
+    },
+    "bgScale":{
+       "x":0.4571223,
+       "y":2.506613
+    },
+    "bgParticleEnable": "false",
+    "bgParticleType": "0",
+    "bgParticleHexColor": "#ffffff",
+    "bgParticlePos":{
+       "x":0.7560001,
+       "y":-3.249999
+    }
+}
