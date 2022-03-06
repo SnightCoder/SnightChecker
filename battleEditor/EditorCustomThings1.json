@@ -1,0 +1,33 @@
+{
+    "bossSpriteImageUrl": "",
+    "bossSpriteSizeX": 300,
+    "bossSpriteSizeY": 300,
+    "boneSpriteType1ImageUrl": "",
+    "boneSpriteType1SizeX": 100,
+    "boneSpriteType1SizeY": 100,
+    "gasterSpriteImageUrl": "",
+    "gasterSpriteSizeX": 50,
+    "gasterSpriteSizeY": 50,
+    "backgroundSongUrl": "",
+    "bossVoiceUrl": "",
+
+    "bgEnable": "true",
+    "bgImageUrl": "", 
+    "bgHexColor": "#268076", 
+    "bgFade": "true", 
+    "bgPos":{
+       "x":0.69,
+       "y":-1.55
+    },
+    "bgScale":{
+       "x":1,
+       "y":1
+    },
+    "bgParticleEnable": "true",
+    "bgParticleType": "0",
+    "bgParticleHexColor": "#ffffff",
+    "bgParticlePos":{
+       "x":0.7560001,
+       "y":-3.249999
+    }
+}
