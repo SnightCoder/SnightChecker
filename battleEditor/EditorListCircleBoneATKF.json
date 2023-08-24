@@ -1,0 +1,114 @@
+{
+  "cirBone": [
+    {
+      "indexATK": 0,
+      "startTime": 1,
+      "center": {
+        "x": 4,
+        "y": 4.5
+      },
+      "NumObjects": 1,
+      "radius": 0.1,
+      "AddDegree": 0,
+      "timeSpawn": 0,
+      "FollowPlayer": false,
+      "KeepFollowPlayer": false,
+      "randomDegree": false,
+      "RandomDegreeValue": [
+        0.0,
+        180.0
+      ],
+      "degreeValue": 0,
+      "scale": {
+        "x": 2.144149,
+        "y": 1.27455
+      },
+      "color": 1,
+      "NumObjectsClone": 6,
+      "RadiusClone": 0,
+      "timeSpawnClone": 0.5,
+      "CloneCenterFollowPlayer": false,
+      "ClonePosAutoAdd": {
+        "x": 0,
+        "y": 0
+      },
+      "CoreOnly": true,
+      "CoreposSetter": [
+
+      ],
+
+      "BoneLookAtCenter": false,
+      "BoneRotate": 90,
+      "inBox": false,
+
+      "type": 0,
+      "timeStay": 0,
+      "posSetter": [
+        {
+          "newPos": {
+            "x": 2.6,
+            "y": 2
+          },
+          "waitToBeEnabled": 0,
+          "lerpTime": 0.5,
+          "followPlayer": false,
+          "moveUp": false
+        },
+        {
+          "newPos": {
+            "x": 0,
+            "y": -1
+          },
+          "waitToBeEnabled": 0.5,
+          "lerpTime": 0.5,
+          "followPlayer": true,
+          "moveUp": false
+        },
+        {
+          "newPos": {
+            "x": 0,
+            "y": -1
+          },
+          "waitToBeEnabled": 1,
+          "lerpTime": 0.5,
+          "followPlayer": true,
+          "moveUp": false
+        }
+      ],
+      "rosSetter": [
+        {
+          "rotateDegree": 90.0,
+          "waitToBeEnabled": 0.5,
+          "lerpTime": 0.25,
+          "lookAtPlayer": true
+        },
+        {
+          "rotateDegree": 90.0,
+          "waitToBeEnabled": 1.25,
+          "lerpTime": 0.25,
+          "lookAtPlayer": true
+        }
+      ],
+      "scaleSetter": [
+        {
+          "newScale": {
+            "x": 10,
+            "y": 10
+          },
+          "waitToBeEnabled": 3.75,
+          "lerpTime": 0.5
+        }
+      ],
+      "colorSetter": [
+        {
+          "color": 0,
+          "waitToBeChanged": 2.25
+        },
+        {
+          "color": 2,
+          "waitToBeChanged": 1.5
+        }
+      ]
+    }
+  ]
+}
