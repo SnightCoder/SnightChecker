@@ -1,0 +1,77 @@
+{
+    "cirBone": [
+      {
+        "indexATK": 0,
+        "startTime": 0,
+        "center": {
+          "x": 1.57,
+          "y": -0.85
+        },
+        "NumObjects": 1,
+        "radius": 0.1,
+        "AddDegree": 0,
+        "timeSpawn": 0,
+        "FollowPlayer": false,
+        "KeepFollowPlayer": false,
+        "randomDegree": false,
+        "RandomDegreeValue": [
+          0.0,
+          180.0
+        ],
+        "degreeValue": 0,
+        "scale": {
+          "x": 2.144149,
+          "y": 1.27455
+        },
+        "color": 0,
+        "NumObjectsClone": 20,
+        "RadiusClone": 0.2,
+        "timeSpawnClone": 0,
+        "CloneCenterFollowPlayer": false,
+        "ClonePosAutoAdd": {
+          "x": 0,
+          "y": 0
+        },
+        "CoreOnly": true,
+        "CoreposSetter": [
+          {
+            "newPos": {
+              "x": 0,
+              "y": 1
+            },
+            "waitToBeEnabled": 1,
+            "lerpTime": 0.2,
+            "followPlayer": false
+          },
+          {
+            "newPos": {
+              "x": 0,
+              "y": -1
+            },
+            "waitToBeEnabled": 1,
+            "lerpTime": 0.2,
+            "followPlayer": false
+          }
+        ],
+
+        "BoneLookAtCenter": false,
+        "BoneRotate": 0,
+        "inBox": true,
+
+        "type": 0,
+        "timeStay": 0,
+        "posSetter": [
+
+        ],
+        "rosSetter": [
+
+        ],
+        "scaleSetter": [
+
+        ],
+        "colorSetter": [
+
+        ]
+      }
+    ]
+}
