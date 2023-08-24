@@ -1,0 +1,106 @@
+{
+  "cirBone": [
+    {
+      "indexATK": 0,
+      "startTime": 0,
+      "center": {
+        "x": 2,
+        "y": 2
+      },
+      "NumObjects": 16,
+      "radius": 1,
+      "AddDegree": 22.5,
+      "timeSpawn": 0,
+      "FollowPlayer": true,
+      "KeepFollowPlayer": false,
+      "randomDegree": false,
+      "RandomDegreeValue": [
+        0.0,
+        180.0
+      ],
+      "degreeValue": 0,
+      "scale": {
+        "x": 2.1441490650177,
+        "y": 2.2780659198760988
+      },
+      "color": 1,
+      "NumObjectsClone": 1,
+      "RadiusClone": 0,
+      "timeSpawnClone": 1,
+      "CloneCenterFollowPlayer": false,
+      "ClonePosAutoAdd": {
+        "x": 0,
+        "y": 0
+      },
+      "CoreOnly": true,
+
+      "CoreposSetter": [
+        {
+          "newPos": {
+            "x": -1,
+            "y": 1
+          },
+          "waitToBeEnabled": 4.5,
+          "lerpTime": 0.5,
+          "followPlayer": false
+        },
+        {
+          "newPos": {
+            "x": 1,
+            "y": -1
+          },
+          "waitToBeEnabled": 0.5,
+          "lerpTime": 0.5,
+          "followPlayer": false
+        }
+      ],
+
+      "CorerosSetter": [
+        {
+          "rotateDegree": 1440,
+          "waitToBeEnabled": 1,
+          "lerpTime": 6,
+          "lookAtPlayer": false
+        }
+      ],
+
+
+      "BoneLookAtCenter": true,
+      "BoneRotate": 0,
+      "inBox": true,
+
+      "type": 0,
+      "posSetter": [
+        {
+          "newPos": {
+            "x": -0.5,
+            "y": -0.5
+          },
+          "waitToBeEnabled": 2,
+          "lerpTime": 0.5,
+          "followPlayer": false,
+          "moveUp": true
+        },
+        {
+          "newPos": {
+            "x": 0.25,
+            "y": 0.25
+          },
+          "waitToBeEnabled": 1,
+          "lerpTime": 0.5,
+          "followPlayer": false,
+          "moveUp": true
+        }
+      ],
+      "rosSetter": [
+
+      ],
+      "scaleSetter": [
+
+      ],
+      "colorSetter": [
+
+      ]
+    }
+  ]
+}
